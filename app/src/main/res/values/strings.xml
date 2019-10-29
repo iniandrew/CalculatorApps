@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorApps</string>
+    <string name="min">-</string>
+    <string name="plus">+</string>
+</resources>
